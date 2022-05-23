@@ -1,3 +1,156 @@
+/* 글로벌 설정 */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+/* join__container 설정 */
+#join__container {
+  width: 450px;
+  height: 500px;
+  background-color: #efefef;
+  border-radius: 10px;
+}
+
+#join__container > fieldset,
+.join__title {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 100px;
+}
+
+.join__title {
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+  font-family: "Sacramento", cursive;
+}
+
+fieldset {
+  border: none;
+  flex-grow: 1;
+}
+
+.fieldset__form > * {
+  margin-left: 25px;
+}
+
+label {
+  font-weight: 500;
+  text-align: start;
+  text-shadow: 1px 1px 1px white;
+}
+
+input {
+  width: 400px;
+  border: none;
+  border-bottom: 1px solid black;
+  background-color: transparent;
+  outline: none;
+  font-size: 20px;
+}
+
+.msg {
+  font-size: 13px;
+}
+
+.success {
+  color: green;
+}
+
+.failure {
+  color: red;
+}
+
+.filedset__submit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#submit {
+  width: 400px;
+  height: 70px;
+  background-color: #205375;
+  box-shadow: 2px 3px 3px gray;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px;
+}
+
+#submit:active {
+  box-shadow: 1px 1px 0 rgb(0, 0, 0, 0.5);
+  position: relative;
+  top: 1px;
+}
+
+.modal__container {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 450px;
+  height: 500px;
+  /* background-color: #efefef; */
+  background-color: white;
+  border-radius: 10px;
+}
+
+.modal__wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.modal__content {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 30px;
+  line-height: 1.5;
+  white-space: pre-line;
+}
+
+.modal__exit {
+  width: 250px;
+  height: 70px;
+  background-color: #f55b0e;
+  box-shadow: 2px 3px 3px gray;
+  border: 1px solid #bb460bd0;
+  border-radius: 20px;
+  font-size: 24px;
+  font-weight: 600;
+  color: white;
+}
+
+.modal__exit:active {
+  box-shadow: 1px 1px 0 rgb(0, 0, 0, 0.5);
+  position: relative;
+  top: 1px;
+}
+
+.modal__img {
+  width: 150px;
+  margin-bottom: 30px;
+}
+
+a:link,
+a:visited {
+  text-decoration: none;
+  color: white;
+}
+
 .hide {
   display: none;
 }
