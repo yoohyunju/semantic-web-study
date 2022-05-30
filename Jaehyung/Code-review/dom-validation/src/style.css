@@ -1,0 +1,167 @@
+:root {
+  --input-border-color: #999;
+  --select-border-color: #1dbf73;
+  --submit-btn-color: #0095e0;
+  --non-active-submit: #004465;
+  --kakao-btn-color: rgba(254,229,0,0.6);
+  --naver-btn-color: rgba(60,199,88,0.6);
+  --kakao-hover-color: rgba(254,229,0,1);
+  --naver-hover-color: rgba(60,199,88,1);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+  background-color: inherit;
+  border: none;
+}
+
+input {
+  background-color: inherit;
+  border: none;
+}
+
+input:focus {
+  outline: none;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(./assets/bg-pic-big.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hide {
+  display: none;
+}
+
+.modal-container {
+  width: 26%;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(0, 0, 0, 0.65);
+  color: #fff;
+}
+
+.modal__input-area,
+.modal__sns-area {
+  width: 100%;
+}
+
+.modal__sns-area {
+  margin-bottom: 20px;
+}
+
+.input-box {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+#username,
+#password,
+#password-retype {
+  width: 100%;
+  font-size: 1.2rem;
+  margin-bottom: 6px;
+  color: #fff;
+}
+
+.input-box__text-input {
+  border-bottom: 1px solid var(--input-border-color);
+  margin-bottom: 8px;
+}
+
+.input-box__title {
+  margin-bottom: 8px;
+}
+
+.submit-btn {
+  background-color: var(--submit-btn-color);
+  width: 100%;
+  padding: 20px 10px;
+  border-radius: 7px;
+  font-size: 1.1rem;
+  text-align: center;
+  color: #fff;
+}
+
+.sns-box {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.sns-box__btn {
+  display: block;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 14px 0;
+  border-radius: 7px;
+  width: 100%;
+  background-color: aqua;
+  text-align: center;
+  color: rgb(109, 106, 106);
+}
+
+.modal__select-box {
+  display: flex;
+  margin-bottom: 100px;
+}
+
+.select-btn {
+  padding: 8px 10px;
+  font-size: 1.2rem;
+  color: #fff;
+}
+
+.select-border {
+  border-bottom: 2px solid var(--select-border-color);
+}
+
+.kakao-btn {
+  background-color: var(--kakao-btn-color);
+}
+
+.kakao-btn:hover {
+  transition: 0.6s;
+  background-color: var(--kakao-hover-color);
+}
+
+.naver-btn {
+  background-color: var(--naver-btn-color);
+}
+
+.naver-btn:hover {
+  transition: 0.6s;
+  background-color: var(--naver-hover-color);
+}
+
+
+
+.success-message,
+.failure-message,
+.mismatch-message {
+  font-size: 14px;
+  color: rgb(191, 191, 191);
+}
+
+
+.non-active {
+  opacity: 0.3;
+  /* background-color: var(--non-active-submit); */
+}
