@@ -1,0 +1,33 @@
+{
+  "name": "im-sprint-underbar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha .test/ --reporter mocha-multi-reporters --reporter-options configFile=multi-reporters.json",
+    "report": "mocha .test/ --timeout 50000 --exit --sort --reporter @mochajs/json-file-reporter",
+    "submit": "codestates"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codestates/im-sprint-underbar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codestates/im-sprint-underbar/issues"
+  },
+  "homepage": "https://github.com/codestates/im-sprint-underbar#readme",
+  "dependencies": {
+    "mocha": "^8.1.3",
+    "sinon": "^9.0.3"
+  },
+  "devDependencies": {
+    "@mochajs/json-file-reporter": "^1.3.0",
+    "codestates-assignment-manager": "^1.8.0",
+    "mocha-multi-reporters": "^1.5.1"
+  }
+}
