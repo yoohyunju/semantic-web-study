@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>유효성 검사</title>
+  <link rel="stylesheet" href="style.css">
+  <script async src="script.js"></script>
+</head>
+
+<body>
+
+  <section class="modal-container">
+    <article class="modal__select-box">
+      <button class="select-btn select-signup select-border">
+        SignUp
+      </button>
+      <button class="select-btn select-login">
+        LogIn
+      </button>
+    </article>
+
+    <article class="modal__input-area">
+      <div class="input-box">
+        <div class="input-box__title">username</div>
+        <div class="input-box__text-input">
+          <input type="text" id="username">
+        </div>
+        <div class="success-message hide">사용할 수 있는 아이디입니다</div>
+        <div class="failure-message hide">아이디는 네 글자 이상이어야 합니다</div>
+      </div>
+
+      <div class="input-box">
+        <div class="input-box__title">password</div>
+        <div class="input-box__text-input">
+          <input type="password" id="password">
+        </div>
+      </div>
+
+      <div class="input-box">
+        <div class="input-box__title">check password</div>
+        <div class="input-box__text-input">
+          <input type="password" id="password-retype">
+        </div>
+        <div class="mismatch-message hide">비밀번호가 일치하지 않습니다</div>
+      </div>
+    </article>
+
+    <article class="modal__sns-area">
+      <div class="sns-box">
+        <a class="sns-box__btn kakao-btn" href="https://www.kakaocorp.com/page/" target="_blank">
+          start with Kakao
+        </a>
+      </div>
+
+      <div class="sns-box">
+        <a class="sns-box__btn naver-btn" href="https://www.naver.com" target="_blank">
+          start with Naver
+        </a>
+      </div>
+    </article>
+
+    <button class="submit-btn signup-text non-active">SignUp</button>
+    <button class="submit-btn login-text non-active hide">LogIn</button>
+  </section>
+
+</body>
+
+</html>

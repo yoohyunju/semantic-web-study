@@ -1,0 +1,2324 @@
+{
+  "stats": {
+    "suites": 29,
+    "tests": 138,
+    "passes": 110,
+    "pending": 8,
+    "failures": 20,
+    "start": "2022-05-27T07:57:13.762Z",
+    "end": "2022-05-27T07:57:13.913Z",
+    "duration": 151
+  },
+  "tests": [
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements identity Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "전달받은 입력값을 그대로 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements identity 전달받은 입력값을 그대로 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements take Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "두 번째 입력이 생략된 경우, 빈 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements take 두 번째 입력이 생략된 경우, 빈 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "차례대로 처음 n개의 요소를 갖는 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements take 차례대로 처음 n개의 요소를 갖는 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "두 번째 입력이 0인 경우, 빈 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements take 두 번째 입력이 0인 경우, 빈 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "두 번째 입력이 배열의 길이를 벗어날 경우, 배열 전체를 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements take 두 번째 입력이 배열의 길이를 벗어날 경우, 배열 전체를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements drop Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "두 번째 입력이 생략된 경우, 전체 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements drop 두 번째 입력이 생략된 경우, 전체 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "차례대로 처음 n개의 요소가 제외된 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements drop 차례대로 처음 n개의 요소가 제외된 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "두 번째 입력이 0인 경우, 전체 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements drop 두 번째 입력이 0인 경우, 전체 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "두 번째 입력이 배열의 길이를 벗어날 경우, 빈 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements drop 두 번째 입력이 배열의 길이를 벗어날 경우, 빈 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements last Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "두 번째 입력이 생략된 경우, 마지막 요소만을 담은 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements last 두 번째 입력이 생략된 경우, 마지막 요소만을 담은 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "차례대로 마지막 n개의 요소를 갖는 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements last 차례대로 마지막 n개의 요소를 갖는 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "두 번째 입력이 0인 경우, 빈 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements last 두 번째 입력이 0인 경우, 빈 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "두 번째 입력이 배열의 길이를 벗어날 경우, 배열 전체 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements last 두 번째 입력이 배열의 길이를 벗어날 경우, 배열 전체 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements each Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "명시적인 리턴문을 작성하지 않아야 합니다",
+      "fullTitle": "Bare Minimum Requirements each 명시적인 리턴문을 작성하지 않아야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "배열을 입력받은 경우, 배열을 순회하면서 배열의 요소에 접근할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements each 배열을 입력받은 경우, 배열을 순회하면서 배열의 요소에 접근할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "배열을 입력받은 경우, 배열을 순회하면서 배열의 요소와 인덱스에 접근할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements each 배열을 입력받은 경우, 배열을 순회하면서 배열의 요소와 인덱스에 접근할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "배열을 입력받은 경우, 배열을 순회하면서 배열의 요소, 인덱스, 배열 그 자체에 접근할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements each 배열을 입력받은 경우, 배열을 순회하면서 배열의 요소, 인덱스, 배열 그 자체에 접근할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "객체를 입력받은 경우, 객체의 속성값에 접근할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements each 객체를 입력받은 경우, 객체의 속성값에 접근할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "객체를 입력받은 경우, 객체의 속성값, 속성이름에 접근할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements each 객체를 입력받은 경우, 객체의 속성값, 속성이름에 접근할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "객체를 입력받은 경우, 객체의 속성값, 속성이름, 객체 자체에 접근할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements each 객체를 입력받은 경우, 객체의 속성값, 속성이름, 객체 자체에 접근할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "객체를 입력받은 경우, `length` 속성(property)은 배열의 length와는 다르다는 것을 이해해야 합니다",
+      "fullTitle": "Bare Minimum Requirements each 객체를 입력받은 경우, `length` 속성(property)은 배열의 length와는 다르다는 것을 이해해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements indexOf Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.each 함수를 사용해야 합니다",
+      "fullTitle": "Bare Minimum Requirements indexOf _.each 함수를 사용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "target이 있는 경우, target의 index를 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements indexOf target이 있는 경우, target의 index를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "target이 없는 경우, -1을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements indexOf target이 없는 경우, -1을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "target이 여러 개 있을 경우, 가장 낮은 index를 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements indexOf target이 여러 개 있을 경우, 가장 낮은 index를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements filter Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.each 함수를 사용해야 합니다",
+      "fullTitle": "Bare Minimum Requirements filter _.each 함수를 사용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "callback으로 짝수를 판별하는 함수를 입력받은 경우, 짝수만을 요소로 갖는 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements filter callback으로 짝수를 판별하는 함수를 입력받은 경우, 짝수만을 요소로 갖는 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "callback으로 문자열의 길이가 6이상인지 판별하는 함수를 입력받은 경우, 길이 6 이상의 문자열만을 요소로 갖는 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements filter callback으로 문자열의 길이가 6이상인지 판별하는 함수를 입력받은 경우, 길이 6 이상의 문자열만을 요소로 갖는 배열을 리턴해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "callback의 결과가 falsy인 요소를 제외한 새로운 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements filter callback의 결과가 falsy인 요소를 제외한 새로운 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements filter 입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements reject Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.each 함수를 사용해야 합니다",
+      "fullTitle": "Bare Minimum Requirements reject _.each 함수를 사용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "callback으로 짝수를 판별하는 함수를 입력받은 경우, 짝수가 포함되지 않은 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements reject callback으로 짝수를 판별하는 함수를 입력받은 경우, 짝수가 포함되지 않은 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "callback으로 문자열의 길이가 6이상인지 판별하는 함수를 입력받은 경우, 길이 6 미만의 문자열만 요소로 갖는 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements reject callback으로 문자열의 길이가 6이상인지 판별하는 함수를 입력받은 경우, 길이 6 미만의 문자열만 요소로 갖는 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements reject 입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements uniq Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.each 함수를 사용해야 합니다",
+      "fullTitle": "Bare Minimum Requirements uniq _.each 함수를 사용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "중복된 요소가 제거된 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements uniq 중복된 요소가 제거된 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "중복 여부의 판단은 엄격한 동치 연산(strict equality, ===)을 사용해야 합니다",
+      "fullTitle": "Bare Minimum Requirements uniq 중복 여부의 판단은 엄격한 동치 연산(strict equality, ===)을 사용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements uniq 입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements map Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.each 함수를 사용해야 합니다",
+      "fullTitle": "Bare Minimum Requirements map _.each 함수를 사용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "전달받은 callback 함수를 배열의 모든 요소에 적용해야 합니다",
+      "fullTitle": "Bare Minimum Requirements map 전달받은 callback 함수를 배열의 모든 요소에 적용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements map 입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements map 입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements pluck Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.map 함수를 사용해야 합니다",
+      "fullTitle": "Bare Minimum Requirements pluck _.map 함수를 사용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "각 요소에서 원하는 속성의 값만을 요소로 갖는 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements pluck 각 요소에서 원하는 속성의 값만을 요소로 갖는 배열을 리턴해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements pluck 입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements reduce Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.each 함수를 사용해야 합니다",
+      "fullTitle": "Bare Minimum Requirements reduce _.each 함수를 사용해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "반복 작업의 누적된 값을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements reduce 반복 작업의 누적된 값을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력받은 배열을 변경하지 말아야 합니다",
+      "fullTitle": "Bare Minimum Requirements reduce 입력받은 배열을 변경하지 말아야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "iteratee는 차례대로 누적값, 요소, 인덱스, 전체 배열을 입력받아야 합니다",
+      "fullTitle": "Bare Minimum Requirements reduce iteratee는 차례대로 누적값, 요소, 인덱스, 전체 배열을 입력받아야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "초기 값(accumulator)을 입력받은 경우, 배열의 모든 요소가 iteratee에 전달됩니다",
+      "fullTitle": "Bare Minimum Requirements reduce 초기 값(accumulator)을 입력받은 경우, 배열의 모든 요소가 iteratee에 전달됩니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "초기 값(accumulator)으로 fasly 값을 입력받을 수 있습니다",
+      "fullTitle": "Bare Minimum Requirements reduce 초기 값(accumulator)으로 fasly 값을 입력받을 수 있습니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "초기 값(accumulator)을 입력받지 않은 경우, 배열의 첫 번째 요소를 accumulator로 사용해야 합니다",
+      "fullTitle": "Bare Minimum Requirements reduce 초기 값(accumulator)을 입력받지 않은 경우, 배열의 첫 번째 요소를 accumulator로 사용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "초기 값(accumulator)을 입력받지 않은 경우, 배열의 2번째 요소부터 반복 작업을 해야 합니다",
+      "fullTitle": "Bare Minimum Requirements reduce 초기 값(accumulator)을 입력받지 않은 경우, 배열의 2번째 요소부터 반복 작업을 해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge once Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "함수를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge once 함수를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "callback 함수는 한번만 호출되어야 합니다",
+      "fullTitle": "Advanced Challenge once callback 함수는 한번만 호출되어야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.once가 리턴하는 함수는 callback 함수에 인자를 정확히 전달해야 합니다.",
+      "fullTitle": "Advanced Challenge once _.once가 리턴하는 함수는 callback 함수에 인자를 정확히 전달해야 합니다.",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.once가 리턴하는 함수가 여러 번 호출되어도 항상 첫 번째 호출의 결과값을 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge once _.once가 리턴하는 함수가 여러 번 호출되어도 항상 첫 번째 호출의 결과값을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력으로 전달되는 시간이 지난 후에 callback 함수를 실행해야 합니다",
+      "fullTitle": "Advanced Challenge delay 입력으로 전달되는 시간이 지난 후에 callback 함수를 실행해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "추가로 전달되는 인자가 있는 경우, callback 함수의 호출 시 인자로 전달해야 합니다",
+      "fullTitle": "Advanced Challenge delay 추가로 전달되는 인자가 있는 경우, callback 함수의 호출 시 인자로 전달해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge includes Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.each, _.reduce 중 하나를 사용해야 합니다",
+      "fullTitle": "Advanced Challenge includes _.each, _.reduce 중 하나를 사용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력받은 배열을 변경하지 말아야 합니다",
+      "fullTitle": "Advanced Challenge includes 입력받은 배열을 변경하지 말아야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "배열의 요소가 찾는 값과 일치할 경우, true를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge includes 배열의 요소가 찾는 값과 일치할 경우, true를 리턴해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "배열의 요소가 찾는 값과 일치하지 않을 경우, false를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge includes 배열의 요소가 찾는 값과 일치하지 않을 경우, false를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge every Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "boolean 타입을 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge every boolean 타입을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "빈 배열을 입력받은 경우, true를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge every 빈 배열을 입력받은 경우, true를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "배열의 모든 요소가 test를 통과할 경우, true를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge every 배열의 모든 요소가 test를 통과할 경우, true를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "배열의 요소 중 하나라도 test를 통과하지 못할 경우, false를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge every 배열의 요소 중 하나라도 test를 통과하지 못할 경우, false를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "callback 함수가 주어지지 않을 경우, 요소 자체의 값을 기준으로 판단합니다",
+      "fullTitle": "Advanced Challenge every callback 함수가 주어지지 않을 경우, 요소 자체의 값을 기준으로 판단합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge some Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "boolean 타입을 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge some boolean 타입을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "빈 배열을 입력받은 경우, false를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge some 빈 배열을 입력받은 경우, false를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "배열의 요소 중 하나라도 test를 통과할 경우, true를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge some 배열의 요소 중 하나라도 test를 통과할 경우, true를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "배열의 모든 요소가 test를 통과하지 못할 경우, false를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge some 배열의 모든 요소가 test를 통과하지 못할 경우, false를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "callback 함수가 주어지지 않을 경우, 요소 자체의 값을 기준으로 판단합니다",
+      "fullTitle": "Advanced Challenge some callback 함수가 주어지지 않을 경우, 요소 자체의 값을 기준으로 판단합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge extend Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.each 함수를 사용해야 합니다",
+      "fullTitle": "Advanced Challenge extend _.each 함수를 사용해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "전달받은 첫 번째 객체를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge extend 전달받은 첫 번째 객체를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "첫 번째 객체에 차례대로 다음 객체들의 속성을 추가해야 합니다",
+      "fullTitle": "Advanced Challenge extend 첫 번째 객체에 차례대로 다음 객체들의 속성을 추가해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "동일한 속성을 가진 객체들을 입력받은 경우, 가장 뒤에 위치한 객체의 속성값을 저장합니다",
+      "fullTitle": "Advanced Challenge extend 동일한 속성을 가진 객체들을 입력받은 경우, 가장 뒤에 위치한 객체의 속성값을 저장합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력으로 전달되는 객체의 개수는 정해져 있지 않습니다",
+      "fullTitle": "Advanced Challenge extend 입력으로 전달되는 객체의 개수는 정해져 있지 않습니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge defaults Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "전달받은 첫 번째 객체를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge defaults 전달받은 첫 번째 객체를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "첫 번째 객체에 차례대로 다음 객체들의 속성을 추가해야 합니다",
+      "fullTitle": "Advanced Challenge defaults 첫 번째 객체에 차례대로 다음 객체들의 속성을 추가해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "첫 번째 객체가 이미 가지고 있는 속성은 수정하지 말아야 합니다",
+      "fullTitle": "Advanced Challenge defaults 첫 번째 객체가 이미 가지고 있는 속성은 수정하지 말아야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "동일한 속성을 가진 객체들을 입력받은 경우, 가장 앞에 위치한 객체의 속성값을 저장합니다",
+      "fullTitle": "Advanced Challenge defaults 동일한 속성을 가진 객체들을 입력받은 경우, 가장 앞에 위치한 객체의 속성값을 저장합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "이미 존재하는 속성의 값이 (undefined를 제외한) falsy이더라도 수정하지 말아야 합니다",
+      "fullTitle": "Advanced Challenge defaults 이미 존재하는 속성의 값이 (undefined를 제외한) falsy이더라도 수정하지 말아야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력으로 전달되는 객체의 개수는 정해져 있지 않습니다",
+      "fullTitle": "Advanced Challenge defaults 입력으로 전달되는 객체의 개수는 정해져 있지 않습니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge zip Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected true to equal false",
+        "showDiff": true,
+        "actual": "true",
+        "expected": "false",
+        "stack": "AssertionError: expected true to equal false\n    at Context.<anonymous> (lib\\testSupport.js:67:49)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "_.each, _.reduce, _.pluck 중 하나를 사용해야 합니다",
+      "fullTitle": "Advanced Challenge zip _.each, _.reduce, _.pluck 중 하나를 사용해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected false to equal true",
+        "showDiff": true,
+        "actual": "false",
+        "expected": "true",
+        "stack": "AssertionError: expected false to equal true\n    at Context.<anonymous> (lib\\testSupport.js:87:23)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "배열을 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge zip 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected false to deeply equal true",
+        "showDiff": true,
+        "actual": "false",
+        "expected": "true",
+        "stack": "AssertionError: expected false to deeply equal true\n    at Context.<anonymous> (spec\\02_advanced.test.js:308:38)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "입력받은 배열들의 요소들 중 서로 같은 index의 요소끼리 결합해야 합니다",
+      "fullTitle": "Advanced Challenge zip 입력받은 배열들의 요소들 중 서로 같은 index의 요소끼리 결합해야 합니다",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ Array(3) ]",
+        "showDiff": true,
+        "expected": [
+          [
+            1,
+            11,
+            111
+          ],
+          [
+            2,
+            22,
+            222
+          ],
+          [
+            3,
+            33,
+            333
+          ]
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ Array(3) ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:315:57)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "입력으로 전달되는 배열의 길이는 서로 다를 경우, 가장 긴 배열의 길이가 기준이 됩니다",
+      "fullTitle": "Advanced Challenge zip 입력으로 전달되는 배열의 길이는 서로 다를 경우, 가장 긴 배열의 길이가 기준이 됩니다",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ Array(4) ]",
+        "showDiff": true,
+        "expected": [
+          [
+            "a",
+            1
+          ],
+          [
+            "b",
+            null
+          ],
+          [
+            "c",
+            null
+          ],
+          [
+            "d",
+            null
+          ]
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ Array(4) ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:323:49)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "입력으로 전달되는 배열의 개수는 정해져 있지 않습니다",
+      "fullTitle": "Advanced Challenge zip 입력으로 전달되는 배열의 개수는 정해져 있지 않습니다",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ [ 1 ], [ 2 ], [ 3 ] ]",
+        "showDiff": true,
+        "expected": [
+          [
+            1
+          ],
+          [
+            2
+          ],
+          [
+            3
+          ]
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ [ 1 ], [ 2 ], [ 3 ] ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:337:33)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge zipStrict Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.each, _.reduce, _.pluck 중 하나를 사용해야 합니다",
+      "fullTitle": "Advanced Challenge zipStrict _.each, _.reduce, _.pluck 중 하나를 사용해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected false to equal true",
+        "showDiff": true,
+        "actual": "false",
+        "expected": "true",
+        "stack": "AssertionError: expected false to equal true\n    at Context.<anonymous> (lib\\testSupport.js:87:23)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "배열을 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge zipStrict 배열을 리턴해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected false to deeply equal true",
+        "showDiff": true,
+        "actual": "false",
+        "expected": "true",
+        "stack": "AssertionError: expected false to deeply equal true\n    at Context.<anonymous> (spec\\02_advanced.test.js:367:38)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "입력받은 배열들의 요소들 중 서로 같은 index의 요소끼리 결합해야 합니다",
+      "fullTitle": "Advanced Challenge zipStrict 입력받은 배열들의 요소들 중 서로 같은 index의 요소끼리 결합해야 합니다",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ Array(3) ]",
+        "showDiff": true,
+        "expected": [
+          [
+            1,
+            11,
+            111
+          ],
+          [
+            2,
+            22,
+            222
+          ],
+          [
+            3,
+            33,
+            333
+          ]
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ Array(3) ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:374:63)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "입력으로 전달되는 배열의 길이는 서로 다를 경우, 가장 짧은 배열의 길이가 기준이 됩니다",
+      "fullTitle": "Advanced Challenge zipStrict 입력으로 전달되는 배열의 길이는 서로 다를 경우, 가장 짧은 배열의 길이가 기준이 됩니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ [ 'a', 1 ] ]",
+        "showDiff": true,
+        "expected": [
+          [
+            "a",
+            1
+          ]
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ [ 'a', 1 ] ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:382:55)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "입력으로 전달되는 배열의 개수는 정해져 있지 않습니다",
+      "fullTitle": "Advanced Challenge zipStrict 입력으로 전달되는 배열의 개수는 정해져 있지 않습니다",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ [ 1 ], [ 2 ], [ 3 ] ]",
+        "showDiff": true,
+        "expected": [
+          [
+            1
+          ],
+          [
+            2
+          ],
+          [
+            3
+          ]
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ [ 1 ], [ 2 ], [ 3 ] ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:390:39)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge intersection Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.each, _.reduce 중 하나를 사용해야 합니다",
+      "fullTitle": "Advanced Challenge intersection _.each, _.reduce 중 하나를 사용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected false to equal true",
+        "showDiff": true,
+        "actual": "false",
+        "expected": "true",
+        "stack": "AssertionError: expected false to equal true\n    at Context.<anonymous> (lib\\testSupport.js:87:23)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "입력으로 전달받은 배열들의 교집합을 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge intersection 입력으로 전달받은 배열들의 교집합을 리턴해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ 'moe' ]",
+        "showDiff": true,
+        "expected": [
+          "moe"
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ 'moe' ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:419:49)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "교집합이 없는 경우, 빈 배열을 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge intersection 교집합이 없는 경우, 빈 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal []",
+        "showDiff": true,
+        "expected": [],
+        "stack": "AssertionError: expected undefined to deeply equal []\n    at Context.<anonymous> (spec\\02_advanced.test.js:432:55)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "입력으로 전달되는 배열의 개수는 정해져 있지 않습니다",
+      "fullTitle": "Advanced Challenge intersection 입력으로 전달되는 배열의 개수는 정해져 있지 않습니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ 1, 2 ]",
+        "showDiff": true,
+        "expected": [
+          1,
+          2
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ 1, 2 ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:438:63)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge difference Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.each, _.reduce 중 하나를 사용해야 합니다",
+      "fullTitle": "Advanced Challenge difference _.each, _.reduce 중 하나를 사용해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected false to equal true",
+        "showDiff": true,
+        "actual": "false",
+        "expected": "true",
+        "stack": "AssertionError: expected false to equal true\n    at Context.<anonymous> (lib\\testSupport.js:87:23)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "입력으로 전달받은 배열들의 차집합을 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge difference 입력으로 전달받은 배열들의 차집합을 리턴해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ 'curly', 'larry' ]",
+        "showDiff": true,
+        "expected": [
+          "curly",
+          "larry"
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ 'curly', 'larry' ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:461:47)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "차집합이 없는 경우, 빈 배열을 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge difference 차집합이 없는 경우, 빈 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal []",
+        "showDiff": true,
+        "expected": [],
+        "stack": "AssertionError: expected undefined to deeply equal []\n    at Context.<anonymous> (spec\\02_advanced.test.js:474:44)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "입력으로 전달되는 배열의 개수는 정해져 있지 않습니다",
+      "fullTitle": "Advanced Challenge difference 입력으로 전달되는 배열의 개수는 정해져 있지 않습니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ 3 ]",
+        "showDiff": true,
+        "expected": [
+          3
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ 3 ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:480:61)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "세 배열간의 겹치지 않는 요소를 반환해야 합니다",
+      "fullTitle": "Advanced Challenge difference 세 배열간의 겹치지 않는 요소를 반환해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ 3, 4 ]",
+        "showDiff": true,
+        "expected": [
+          3,
+          4
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ 3, 4 ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:487:23)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge sortBy Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "transform이 전달되지 않은 경우, 배열의 요소끼리 비교하여 정렬해야 합니다",
+      "fullTitle": "Advanced Challenge sortBy transform이 전달되지 않은 경우, 배열의 요소끼리 비교하여 정렬해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "transform를 사용하여 비교해야 합니다",
+      "fullTitle": "Advanced Challenge sortBy transform를 사용하여 비교해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "order 값에 따라 오름차순, 내림차순을 구분하여 정렬해야 합니다",
+      "fullTitle": "Advanced Challenge sortBy order 값에 따라 오름차순, 내림차순을 구분하여 정렬해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "transform과 order에 따라 정렬해야 합니다",
+      "fullTitle": "Advanced Challenge sortBy transform과 order에 따라 정렬해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Nigthmare memoize Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "memoization의 적용 여부는 함수의 실행 결과에는 영향을 미치지 않아야 합니다",
+      "fullTitle": "Nigthmare memoize memoization의 적용 여부는 함수의 실행 결과에는 영향을 미치지 않아야 합니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "memoization이 적용된 함수는 이전과 동일한 입력이 전달될 경우, 호출되지 않아야 합니다",
+      "fullTitle": "Nigthmare memoize memoization이 적용된 함수는 이전과 동일한 입력이 전달될 경우, 호출되지 않아야 합니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "메모이제이션은 중복되는 연산을 제거해 실행 속도를 줄일 수 있습니다",
+      "fullTitle": "Nigthmare memoize 메모이제이션은 중복되는 연산을 제거해 실행 속도를 줄일 수 있습니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Nigthmare throttle Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "함수를 리턴해야 합니다",
+      "fullTitle": "Nigthmare throttle 함수를 리턴해야 합니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "이전 함수의 실행 이후 입력으로 전달되는 구간이 지나면 함수를 실행할 수 있어야 합니다",
+      "fullTitle": "Nigthmare throttle 이전 함수의 실행 이후 입력으로 전달되는 구간이 지나면 함수를 실행할 수 있어야 합니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력으로 전달되는 구간은 함수 실행의 최소 간격을 의미합니다",
+      "fullTitle": "Nigthmare throttle 입력으로 전달되는 구간은 함수 실행의 최소 간격을 의미합니다",
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Nigthmare memoize Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "memoization의 적용 여부는 함수의 실행 결과에는 영향을 미치지 않아야 합니다",
+      "fullTitle": "Nigthmare memoize memoization의 적용 여부는 함수의 실행 결과에는 영향을 미치지 않아야 합니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "memoization이 적용된 함수는 이전과 동일한 입력이 전달될 경우, 호출되지 않아야 합니다",
+      "fullTitle": "Nigthmare memoize memoization이 적용된 함수는 이전과 동일한 입력이 전달될 경우, 호출되지 않아야 합니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "메모이제이션은 중복되는 연산을 제거해 실행 속도를 줄일 수 있습니다",
+      "fullTitle": "Nigthmare memoize 메모이제이션은 중복되는 연산을 제거해 실행 속도를 줄일 수 있습니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Nigthmare throttle Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "함수를 리턴해야 합니다",
+      "fullTitle": "Nigthmare throttle 함수를 리턴해야 합니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "이전 함수의 실행 이후 입력으로 전달되는 구간이 지나면 함수를 실행할 수 있어야 합니다",
+      "fullTitle": "Nigthmare throttle 이전 함수의 실행 이후 입력으로 전달되는 구간이 지나면 함수를 실행할 수 있어야 합니다",
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력으로 전달되는 구간은 함수 실행의 최소 간격을 의미합니다",
+      "fullTitle": "Nigthmare throttle 입력으로 전달되는 구간은 함수 실행의 최소 간격을 의미합니다",
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "failures": [
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge zip Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected true to equal false",
+        "showDiff": true,
+        "actual": "true",
+        "expected": "false",
+        "stack": "AssertionError: expected true to equal false\n    at Context.<anonymous> (lib\\testSupport.js:67:49)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "_.each, _.reduce, _.pluck 중 하나를 사용해야 합니다",
+      "fullTitle": "Advanced Challenge zip _.each, _.reduce, _.pluck 중 하나를 사용해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected false to equal true",
+        "showDiff": true,
+        "actual": "false",
+        "expected": "true",
+        "stack": "AssertionError: expected false to equal true\n    at Context.<anonymous> (lib\\testSupport.js:87:23)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "배열을 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge zip 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected false to deeply equal true",
+        "showDiff": true,
+        "actual": "false",
+        "expected": "true",
+        "stack": "AssertionError: expected false to deeply equal true\n    at Context.<anonymous> (spec\\02_advanced.test.js:308:38)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "입력받은 배열들의 요소들 중 서로 같은 index의 요소끼리 결합해야 합니다",
+      "fullTitle": "Advanced Challenge zip 입력받은 배열들의 요소들 중 서로 같은 index의 요소끼리 결합해야 합니다",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ Array(3) ]",
+        "showDiff": true,
+        "expected": [
+          [
+            1,
+            11,
+            111
+          ],
+          [
+            2,
+            22,
+            222
+          ],
+          [
+            3,
+            33,
+            333
+          ]
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ Array(3) ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:315:57)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "입력으로 전달되는 배열의 길이는 서로 다를 경우, 가장 긴 배열의 길이가 기준이 됩니다",
+      "fullTitle": "Advanced Challenge zip 입력으로 전달되는 배열의 길이는 서로 다를 경우, 가장 긴 배열의 길이가 기준이 됩니다",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ Array(4) ]",
+        "showDiff": true,
+        "expected": [
+          [
+            "a",
+            1
+          ],
+          [
+            "b",
+            null
+          ],
+          [
+            "c",
+            null
+          ],
+          [
+            "d",
+            null
+          ]
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ Array(4) ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:323:49)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "입력으로 전달되는 배열의 개수는 정해져 있지 않습니다",
+      "fullTitle": "Advanced Challenge zip 입력으로 전달되는 배열의 개수는 정해져 있지 않습니다",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ [ 1 ], [ 2 ], [ 3 ] ]",
+        "showDiff": true,
+        "expected": [
+          [
+            1
+          ],
+          [
+            2
+          ],
+          [
+            3
+          ]
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ [ 1 ], [ 2 ], [ 3 ] ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:337:33)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "_.each, _.reduce, _.pluck 중 하나를 사용해야 합니다",
+      "fullTitle": "Advanced Challenge zipStrict _.each, _.reduce, _.pluck 중 하나를 사용해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected false to equal true",
+        "showDiff": true,
+        "actual": "false",
+        "expected": "true",
+        "stack": "AssertionError: expected false to equal true\n    at Context.<anonymous> (lib\\testSupport.js:87:23)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "배열을 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge zipStrict 배열을 리턴해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected false to deeply equal true",
+        "showDiff": true,
+        "actual": "false",
+        "expected": "true",
+        "stack": "AssertionError: expected false to deeply equal true\n    at Context.<anonymous> (spec\\02_advanced.test.js:367:38)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "입력받은 배열들의 요소들 중 서로 같은 index의 요소끼리 결합해야 합니다",
+      "fullTitle": "Advanced Challenge zipStrict 입력받은 배열들의 요소들 중 서로 같은 index의 요소끼리 결합해야 합니다",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ Array(3) ]",
+        "showDiff": true,
+        "expected": [
+          [
+            1,
+            11,
+            111
+          ],
+          [
+            2,
+            22,
+            222
+          ],
+          [
+            3,
+            33,
+            333
+          ]
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ Array(3) ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:374:63)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "입력으로 전달되는 배열의 길이는 서로 다를 경우, 가장 짧은 배열의 길이가 기준이 됩니다",
+      "fullTitle": "Advanced Challenge zipStrict 입력으로 전달되는 배열의 길이는 서로 다를 경우, 가장 짧은 배열의 길이가 기준이 됩니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ [ 'a', 1 ] ]",
+        "showDiff": true,
+        "expected": [
+          [
+            "a",
+            1
+          ]
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ [ 'a', 1 ] ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:382:55)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "입력으로 전달되는 배열의 개수는 정해져 있지 않습니다",
+      "fullTitle": "Advanced Challenge zipStrict 입력으로 전달되는 배열의 개수는 정해져 있지 않습니다",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ [ 1 ], [ 2 ], [ 3 ] ]",
+        "showDiff": true,
+        "expected": [
+          [
+            1
+          ],
+          [
+            2
+          ],
+          [
+            3
+          ]
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ [ 1 ], [ 2 ], [ 3 ] ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:390:39)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "_.each, _.reduce 중 하나를 사용해야 합니다",
+      "fullTitle": "Advanced Challenge intersection _.each, _.reduce 중 하나를 사용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected false to equal true",
+        "showDiff": true,
+        "actual": "false",
+        "expected": "true",
+        "stack": "AssertionError: expected false to equal true\n    at Context.<anonymous> (lib\\testSupport.js:87:23)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "입력으로 전달받은 배열들의 교집합을 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge intersection 입력으로 전달받은 배열들의 교집합을 리턴해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ 'moe' ]",
+        "showDiff": true,
+        "expected": [
+          "moe"
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ 'moe' ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:419:49)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "교집합이 없는 경우, 빈 배열을 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge intersection 교집합이 없는 경우, 빈 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal []",
+        "showDiff": true,
+        "expected": [],
+        "stack": "AssertionError: expected undefined to deeply equal []\n    at Context.<anonymous> (spec\\02_advanced.test.js:432:55)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "입력으로 전달되는 배열의 개수는 정해져 있지 않습니다",
+      "fullTitle": "Advanced Challenge intersection 입력으로 전달되는 배열의 개수는 정해져 있지 않습니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ 1, 2 ]",
+        "showDiff": true,
+        "expected": [
+          1,
+          2
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ 1, 2 ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:438:63)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "_.each, _.reduce 중 하나를 사용해야 합니다",
+      "fullTitle": "Advanced Challenge difference _.each, _.reduce 중 하나를 사용해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected false to equal true",
+        "showDiff": true,
+        "actual": "false",
+        "expected": "true",
+        "stack": "AssertionError: expected false to equal true\n    at Context.<anonymous> (lib\\testSupport.js:87:23)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "입력으로 전달받은 배열들의 차집합을 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge difference 입력으로 전달받은 배열들의 차집합을 리턴해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ 'curly', 'larry' ]",
+        "showDiff": true,
+        "expected": [
+          "curly",
+          "larry"
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ 'curly', 'larry' ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:461:47)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "차집합이 없는 경우, 빈 배열을 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge difference 차집합이 없는 경우, 빈 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal []",
+        "showDiff": true,
+        "expected": [],
+        "stack": "AssertionError: expected undefined to deeply equal []\n    at Context.<anonymous> (spec\\02_advanced.test.js:474:44)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "입력으로 전달되는 배열의 개수는 정해져 있지 않습니다",
+      "fullTitle": "Advanced Challenge difference 입력으로 전달되는 배열의 개수는 정해져 있지 않습니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ 3 ]",
+        "showDiff": true,
+        "expected": [
+          3
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ 3 ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:480:61)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    },
+    {
+      "title": "세 배열간의 겹치지 않는 요소를 반환해야 합니다",
+      "fullTitle": "Advanced Challenge difference 세 배열간의 겹치지 않는 요소를 반환해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ 3, 4 ]",
+        "showDiff": true,
+        "expected": [
+          3,
+          4
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ 3, 4 ]\n    at Context.<anonymous> (spec\\02_advanced.test.js:487:23)\n    at processImmediate (internal/timers.js:461:21)"
+      }
+    }
+  ],
+  "passes": [
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements identity Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "전달받은 입력값을 그대로 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements identity 전달받은 입력값을 그대로 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements take Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "두 번째 입력이 생략된 경우, 빈 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements take 두 번째 입력이 생략된 경우, 빈 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "차례대로 처음 n개의 요소를 갖는 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements take 차례대로 처음 n개의 요소를 갖는 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "두 번째 입력이 0인 경우, 빈 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements take 두 번째 입력이 0인 경우, 빈 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "두 번째 입력이 배열의 길이를 벗어날 경우, 배열 전체를 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements take 두 번째 입력이 배열의 길이를 벗어날 경우, 배열 전체를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements drop Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "두 번째 입력이 생략된 경우, 전체 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements drop 두 번째 입력이 생략된 경우, 전체 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "차례대로 처음 n개의 요소가 제외된 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements drop 차례대로 처음 n개의 요소가 제외된 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "두 번째 입력이 0인 경우, 전체 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements drop 두 번째 입력이 0인 경우, 전체 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "두 번째 입력이 배열의 길이를 벗어날 경우, 빈 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements drop 두 번째 입력이 배열의 길이를 벗어날 경우, 빈 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements last Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "두 번째 입력이 생략된 경우, 마지막 요소만을 담은 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements last 두 번째 입력이 생략된 경우, 마지막 요소만을 담은 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "차례대로 마지막 n개의 요소를 갖는 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements last 차례대로 마지막 n개의 요소를 갖는 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "두 번째 입력이 0인 경우, 빈 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements last 두 번째 입력이 0인 경우, 빈 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "두 번째 입력이 배열의 길이를 벗어날 경우, 배열 전체 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements last 두 번째 입력이 배열의 길이를 벗어날 경우, 배열 전체 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements each Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "명시적인 리턴문을 작성하지 않아야 합니다",
+      "fullTitle": "Bare Minimum Requirements each 명시적인 리턴문을 작성하지 않아야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "배열을 입력받은 경우, 배열을 순회하면서 배열의 요소에 접근할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements each 배열을 입력받은 경우, 배열을 순회하면서 배열의 요소에 접근할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "배열을 입력받은 경우, 배열을 순회하면서 배열의 요소와 인덱스에 접근할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements each 배열을 입력받은 경우, 배열을 순회하면서 배열의 요소와 인덱스에 접근할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "배열을 입력받은 경우, 배열을 순회하면서 배열의 요소, 인덱스, 배열 그 자체에 접근할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements each 배열을 입력받은 경우, 배열을 순회하면서 배열의 요소, 인덱스, 배열 그 자체에 접근할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "객체를 입력받은 경우, 객체의 속성값에 접근할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements each 객체를 입력받은 경우, 객체의 속성값에 접근할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "객체를 입력받은 경우, 객체의 속성값, 속성이름에 접근할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements each 객체를 입력받은 경우, 객체의 속성값, 속성이름에 접근할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "객체를 입력받은 경우, 객체의 속성값, 속성이름, 객체 자체에 접근할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements each 객체를 입력받은 경우, 객체의 속성값, 속성이름, 객체 자체에 접근할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "객체를 입력받은 경우, `length` 속성(property)은 배열의 length와는 다르다는 것을 이해해야 합니다",
+      "fullTitle": "Bare Minimum Requirements each 객체를 입력받은 경우, `length` 속성(property)은 배열의 length와는 다르다는 것을 이해해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements indexOf Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.each 함수를 사용해야 합니다",
+      "fullTitle": "Bare Minimum Requirements indexOf _.each 함수를 사용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "target이 있는 경우, target의 index를 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements indexOf target이 있는 경우, target의 index를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "target이 없는 경우, -1을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements indexOf target이 없는 경우, -1을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "target이 여러 개 있을 경우, 가장 낮은 index를 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements indexOf target이 여러 개 있을 경우, 가장 낮은 index를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements filter Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.each 함수를 사용해야 합니다",
+      "fullTitle": "Bare Minimum Requirements filter _.each 함수를 사용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "callback으로 짝수를 판별하는 함수를 입력받은 경우, 짝수만을 요소로 갖는 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements filter callback으로 짝수를 판별하는 함수를 입력받은 경우, 짝수만을 요소로 갖는 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "callback으로 문자열의 길이가 6이상인지 판별하는 함수를 입력받은 경우, 길이 6 이상의 문자열만을 요소로 갖는 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements filter callback으로 문자열의 길이가 6이상인지 판별하는 함수를 입력받은 경우, 길이 6 이상의 문자열만을 요소로 갖는 배열을 리턴해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "callback의 결과가 falsy인 요소를 제외한 새로운 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements filter callback의 결과가 falsy인 요소를 제외한 새로운 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements filter 입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements reject Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.each 함수를 사용해야 합니다",
+      "fullTitle": "Bare Minimum Requirements reject _.each 함수를 사용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "callback으로 짝수를 판별하는 함수를 입력받은 경우, 짝수가 포함되지 않은 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements reject callback으로 짝수를 판별하는 함수를 입력받은 경우, 짝수가 포함되지 않은 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "callback으로 문자열의 길이가 6이상인지 판별하는 함수를 입력받은 경우, 길이 6 미만의 문자열만 요소로 갖는 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements reject callback으로 문자열의 길이가 6이상인지 판별하는 함수를 입력받은 경우, 길이 6 미만의 문자열만 요소로 갖는 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements reject 입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements uniq Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.each 함수를 사용해야 합니다",
+      "fullTitle": "Bare Minimum Requirements uniq _.each 함수를 사용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "중복된 요소가 제거된 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements uniq 중복된 요소가 제거된 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "중복 여부의 판단은 엄격한 동치 연산(strict equality, ===)을 사용해야 합니다",
+      "fullTitle": "Bare Minimum Requirements uniq 중복 여부의 판단은 엄격한 동치 연산(strict equality, ===)을 사용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements uniq 입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements map Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.each 함수를 사용해야 합니다",
+      "fullTitle": "Bare Minimum Requirements map _.each 함수를 사용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "전달받은 callback 함수를 배열의 모든 요소에 적용해야 합니다",
+      "fullTitle": "Bare Minimum Requirements map 전달받은 callback 함수를 배열의 모든 요소에 적용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements map 입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements map 입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements pluck Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.map 함수를 사용해야 합니다",
+      "fullTitle": "Bare Minimum Requirements pluck _.map 함수를 사용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "각 요소에서 원하는 속성의 값만을 요소로 갖는 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements pluck 각 요소에서 원하는 속성의 값만을 요소로 갖는 배열을 리턴해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements pluck 입력받은 배열을 변경하지 않고 새로운 배열을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Bare Minimum Requirements reduce Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.each 함수를 사용해야 합니다",
+      "fullTitle": "Bare Minimum Requirements reduce _.each 함수를 사용해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "반복 작업의 누적된 값을 리턴해야 합니다",
+      "fullTitle": "Bare Minimum Requirements reduce 반복 작업의 누적된 값을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력받은 배열을 변경하지 말아야 합니다",
+      "fullTitle": "Bare Minimum Requirements reduce 입력받은 배열을 변경하지 말아야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "iteratee는 차례대로 누적값, 요소, 인덱스, 전체 배열을 입력받아야 합니다",
+      "fullTitle": "Bare Minimum Requirements reduce iteratee는 차례대로 누적값, 요소, 인덱스, 전체 배열을 입력받아야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "초기 값(accumulator)을 입력받은 경우, 배열의 모든 요소가 iteratee에 전달됩니다",
+      "fullTitle": "Bare Minimum Requirements reduce 초기 값(accumulator)을 입력받은 경우, 배열의 모든 요소가 iteratee에 전달됩니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "초기 값(accumulator)으로 fasly 값을 입력받을 수 있습니다",
+      "fullTitle": "Bare Minimum Requirements reduce 초기 값(accumulator)으로 fasly 값을 입력받을 수 있습니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "초기 값(accumulator)을 입력받지 않은 경우, 배열의 첫 번째 요소를 accumulator로 사용해야 합니다",
+      "fullTitle": "Bare Minimum Requirements reduce 초기 값(accumulator)을 입력받지 않은 경우, 배열의 첫 번째 요소를 accumulator로 사용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "초기 값(accumulator)을 입력받지 않은 경우, 배열의 2번째 요소부터 반복 작업을 해야 합니다",
+      "fullTitle": "Bare Minimum Requirements reduce 초기 값(accumulator)을 입력받지 않은 경우, 배열의 2번째 요소부터 반복 작업을 해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge once Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "함수를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge once 함수를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "callback 함수는 한번만 호출되어야 합니다",
+      "fullTitle": "Advanced Challenge once callback 함수는 한번만 호출되어야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.once가 리턴하는 함수는 callback 함수에 인자를 정확히 전달해야 합니다.",
+      "fullTitle": "Advanced Challenge once _.once가 리턴하는 함수는 callback 함수에 인자를 정확히 전달해야 합니다.",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.once가 리턴하는 함수가 여러 번 호출되어도 항상 첫 번째 호출의 결과값을 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge once _.once가 리턴하는 함수가 여러 번 호출되어도 항상 첫 번째 호출의 결과값을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력으로 전달되는 시간이 지난 후에 callback 함수를 실행해야 합니다",
+      "fullTitle": "Advanced Challenge delay 입력으로 전달되는 시간이 지난 후에 callback 함수를 실행해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "추가로 전달되는 인자가 있는 경우, callback 함수의 호출 시 인자로 전달해야 합니다",
+      "fullTitle": "Advanced Challenge delay 추가로 전달되는 인자가 있는 경우, callback 함수의 호출 시 인자로 전달해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge includes Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.each, _.reduce 중 하나를 사용해야 합니다",
+      "fullTitle": "Advanced Challenge includes _.each, _.reduce 중 하나를 사용해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력받은 배열을 변경하지 말아야 합니다",
+      "fullTitle": "Advanced Challenge includes 입력받은 배열을 변경하지 말아야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "배열의 요소가 찾는 값과 일치할 경우, true를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge includes 배열의 요소가 찾는 값과 일치할 경우, true를 리턴해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "배열의 요소가 찾는 값과 일치하지 않을 경우, false를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge includes 배열의 요소가 찾는 값과 일치하지 않을 경우, false를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge every Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "boolean 타입을 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge every boolean 타입을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "빈 배열을 입력받은 경우, true를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge every 빈 배열을 입력받은 경우, true를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "배열의 모든 요소가 test를 통과할 경우, true를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge every 배열의 모든 요소가 test를 통과할 경우, true를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "배열의 요소 중 하나라도 test를 통과하지 못할 경우, false를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge every 배열의 요소 중 하나라도 test를 통과하지 못할 경우, false를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "callback 함수가 주어지지 않을 경우, 요소 자체의 값을 기준으로 판단합니다",
+      "fullTitle": "Advanced Challenge every callback 함수가 주어지지 않을 경우, 요소 자체의 값을 기준으로 판단합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge some Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "boolean 타입을 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge some boolean 타입을 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "빈 배열을 입력받은 경우, false를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge some 빈 배열을 입력받은 경우, false를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "배열의 요소 중 하나라도 test를 통과할 경우, true를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge some 배열의 요소 중 하나라도 test를 통과할 경우, true를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "배열의 모든 요소가 test를 통과하지 못할 경우, false를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge some 배열의 모든 요소가 test를 통과하지 못할 경우, false를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "callback 함수가 주어지지 않을 경우, 요소 자체의 값을 기준으로 판단합니다",
+      "fullTitle": "Advanced Challenge some callback 함수가 주어지지 않을 경우, 요소 자체의 값을 기준으로 판단합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge extend Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "_.each 함수를 사용해야 합니다",
+      "fullTitle": "Advanced Challenge extend _.each 함수를 사용해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "전달받은 첫 번째 객체를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge extend 전달받은 첫 번째 객체를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "첫 번째 객체에 차례대로 다음 객체들의 속성을 추가해야 합니다",
+      "fullTitle": "Advanced Challenge extend 첫 번째 객체에 차례대로 다음 객체들의 속성을 추가해야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "동일한 속성을 가진 객체들을 입력받은 경우, 가장 뒤에 위치한 객체의 속성값을 저장합니다",
+      "fullTitle": "Advanced Challenge extend 동일한 속성을 가진 객체들을 입력받은 경우, 가장 뒤에 위치한 객체의 속성값을 저장합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력으로 전달되는 객체의 개수는 정해져 있지 않습니다",
+      "fullTitle": "Advanced Challenge extend 입력으로 전달되는 객체의 개수는 정해져 있지 않습니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge defaults Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "전달받은 첫 번째 객체를 리턴해야 합니다",
+      "fullTitle": "Advanced Challenge defaults 전달받은 첫 번째 객체를 리턴해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "첫 번째 객체에 차례대로 다음 객체들의 속성을 추가해야 합니다",
+      "fullTitle": "Advanced Challenge defaults 첫 번째 객체에 차례대로 다음 객체들의 속성을 추가해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "첫 번째 객체가 이미 가지고 있는 속성은 수정하지 말아야 합니다",
+      "fullTitle": "Advanced Challenge defaults 첫 번째 객체가 이미 가지고 있는 속성은 수정하지 말아야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "동일한 속성을 가진 객체들을 입력받은 경우, 가장 앞에 위치한 객체의 속성값을 저장합니다",
+      "fullTitle": "Advanced Challenge defaults 동일한 속성을 가진 객체들을 입력받은 경우, 가장 앞에 위치한 객체의 속성값을 저장합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "이미 존재하는 속성의 값이 (undefined를 제외한) falsy이더라도 수정하지 말아야 합니다",
+      "fullTitle": "Advanced Challenge defaults 이미 존재하는 속성의 값이 (undefined를 제외한) falsy이더라도 수정하지 말아야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "입력으로 전달되는 객체의 개수는 정해져 있지 않습니다",
+      "fullTitle": "Advanced Challenge defaults 입력으로 전달되는 객체의 개수는 정해져 있지 않습니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge zipStrict Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge intersection Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge difference Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "fullTitle": "Advanced Challenge sortBy Array, Set, Map 내장 메소드를 사용하지 않고, 언더바의 메스드를 구현할 수 있어야 합니다",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "transform이 전달되지 않은 경우, 배열의 요소끼리 비교하여 정렬해야 합니다",
+      "fullTitle": "Advanced Challenge sortBy transform이 전달되지 않은 경우, 배열의 요소끼리 비교하여 정렬해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "transform를 사용하여 비교해야 합니다",
+      "fullTitle": "Advanced Challenge sortBy transform를 사용하여 비교해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "order 값에 따라 오름차순, 내림차순을 구분하여 정렬해야 합니다",
+      "fullTitle": "Advanced Challenge sortBy order 값에 따라 오름차순, 내림차순을 구분하여 정렬해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "transform과 order에 따라 정렬해야 합니다",
+      "fullTitle": "Advanced Challenge sortBy transform과 order에 따라 정렬해야 합니다",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}

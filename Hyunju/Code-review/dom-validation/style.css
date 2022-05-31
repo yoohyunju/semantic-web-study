@@ -1,0 +1,15 @@
+input:focus {
+  outline: none;
+}
+
+.hide {
+  display: none;
+}
+
+.border-blue {
+  border: 3px solid rgb(94, 164, 255);
+}
+
+.border-red {
+  border: 3px solid rgb(228, 101, 101);
+}
