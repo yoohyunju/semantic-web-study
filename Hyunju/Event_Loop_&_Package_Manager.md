@@ -10,6 +10,7 @@
     
 
 - **브라우저의 구조**
+![image](https://user-images.githubusercontent.com/59650985/172048723-6b75255c-c0eb-4e10-8f9f-af55b1faf778.png)
 
 - **JavaScript 엔진 (ex. V8) 영역** :
     - **호출 스택 (Call Stack)** : 작업이 요청되면 순차적으로 Call Stack에 쌓이고 순차적으로 실행된다. 단 하나의 Call Stack을 사용하기 때문에 해당 task가 종료하기 전까지는 다른 task도 수행될 수 없다.
