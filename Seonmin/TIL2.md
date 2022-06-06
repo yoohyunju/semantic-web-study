@@ -147,3 +147,6 @@ yarn이 npm의 단점을 보안하여 나온 것이기는 하지만. **npm 또�
 [https://lynmp.com/ko/article/tb585d114096490055](https://lynmp.com/ko/article/tb585d114096490055)
 
 [https://basemenks.tistory.com/232](https://basemenks.tistory.com/232)
+=======
+비동기
+>>>>>>> 36244f11f91837ed742e564f6f658553a3392191
